@@ -1,0 +1,35 @@
+_repo: Il-Quadriregio_27433
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Filippini, Enrico
+    birthdate: 1867
+    gutenberg_agent_id: '32689'
+    url: http://www.gutenberg.org/2009/agents/32689
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frezzi, Federico
+    alias: Frezzi, Federigo
+    deathdate: 1416
+    gutenberg_agent_id: '32688'
+    url: http://www.gutenberg.org/2009/agents/32688
+    wikipedia: http://it.wikipedia.org/wiki/Federico_Frezzi
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27433'
+  lccn: a14002865
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Il Quadriregio
+url: http://www.gutenberg.org/ebooks/27433
