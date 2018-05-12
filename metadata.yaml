@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32688
     wikipedia: http://it.wikipedia.org/wiki/Federico_Frezzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27433#Il-Quadriregio
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
